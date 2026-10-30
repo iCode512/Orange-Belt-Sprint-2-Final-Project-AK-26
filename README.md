@@ -5,7 +5,7 @@ We introduced the final project, a website incorporating HTML, CSS, and Flexbox.
 
 The student learned:
 
-• How to structure HTML layout elements effectively for a single-page web project.
-• Core Flexbox alignment properties to organize content dynamically.
-• Style web pages using CSS to create a clean, responsive layout.
+1.) How to structure HTML layout elements effectively for a single-page web project,
+2.) Use core Flexbox alignment properties to organize content dynamically.
+3.) Style web pages using CSS to create a clean, responsive layout.
 
